@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "135786337166",
+    "firebase_url": "https://virtual-badminton-trainer-app-default-rtdb.firebaseio.com",
+    "project_id": "virtual-badminton-trainer-app",
+    "storage_bucket": "virtual-badminton-trainer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135786337166:android:acdde19ca0251e55d40adf",
+        "android_client_info": {
+          "package_name": "com.ardent.ardent_sports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135786337166-88u4fng8mluvobm7lksu7550pep42178.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ardent.ardent_sports",
+            "certificate_hash": "09e3abaaea4a4aa2013cf645fbba965d7c857557"
+          }
+        },
+        {
+          "client_id": "135786337166-irrlss8r9do8en6letk0mkqq3g6recjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ardent.ardent_sports",
+            "certificate_hash": "1e9018927a5d43b6a79d0d01af00c352cb9116b7"
+          }
+        },
+        {
+          "client_id": "135786337166-e5631238ua1pnrmku79hkiaj7tnl4fkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDl8NhubeAu0mRXehLbUP6qkWFZNKG8Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135786337166-e5631238ua1pnrmku79hkiaj7tnl4fkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135786337166:android:185d82f7a2677a6bd40adf",
+        "android_client_info": {
+          "package_name": "com.hvx.scorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135786337166-b8utq2g3l48gvsqfenadq2iqskppu2vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hvx.scorer",
+            "certificate_hash": "73b6066d39b331e81e5ef5d1865254fef37690cc"
+          }
+        },
+        {
+          "client_id": "135786337166-pabu30f34mntndpoi2bm6tb7q8nb6ng4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hvx.scorer",
+            "certificate_hash": "bbf834f24ef6d7836ea33a8c56a52f30ef9e1570"
+          }
+        },
+        {
+          "client_id": "135786337166-e5631238ua1pnrmku79hkiaj7tnl4fkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDl8NhubeAu0mRXehLbUP6qkWFZNKG8Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135786337166-e5631238ua1pnrmku79hkiaj7tnl4fkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

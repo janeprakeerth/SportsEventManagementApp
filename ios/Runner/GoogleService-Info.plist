@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>135786337166-n6dtiof760q9di42lo26538t2aj5j2p8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.135786337166-n6dtiof760q9di42lo26538t2aj5j2p8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>135786337166-88u4fng8mluvobm7lksu7550pep42178.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCdSwH0Ch3YF6bq7e8qxt7dTdVYzs9PBRY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>135786337166</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ardentsports</string>
+	<key>PROJECT_ID</key>
+	<string>virtual-badminton-trainer-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>virtual-badminton-trainer-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:135786337166:ios:0bbe3248dd5867d6d40adf</string>
+	<key>DATABASE_URL</key>
+	<string>https://virtual-badminton-trainer-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
